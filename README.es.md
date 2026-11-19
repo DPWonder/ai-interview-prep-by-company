@@ -1,6 +1,6 @@
 # Entrevistas con IA por empresa: qué esperar y cómo prepararse
 
-Las entrevistas con IA de Alex, Alignerr, Braintrust, CodeSignal, HackerRank, HireVue, Mercor y micro1: el formato, cuánto dura, qué tipo de preguntas dice la empresa que hace, qué se graba y quién lo revisa. Solo lo que dicen las páginas públicas de cada empresa, cada línea con su fuente y el día en que se leyó (lectura más reciente: 2026-11-19).
+Las entrevistas con IA de Alex, Alignerr, Braintrust, CodeSignal, Glider AI, HackerRank, HireVue, Mercor, micro1 y Ribbon: el formato, cuánto dura, qué tipo de preguntas dice la empresa que hace, qué se graba y quién lo revisa. Solo lo que dicen las páginas públicas de cada empresa, cada línea con su fuente y el día en que se leyó (lectura más reciente: 2026-11-19).
 
 Mantenida por Aethel, práctica gratuita de entrevistas con IA para desarrolladores: [practique ahora, sin cuenta](https://aethel.pro/es/practica-de-entrevista-con-ia?ref=gh-guides). Aethel es una empresa aparte y no tiene relación con ninguna empresa de esta lista.
 
@@ -10,16 +10,18 @@ Mantenida por Aethel, práctica gratuita de entrevistas con IA para desarrollado
 
 | Empresa | Guía | In English |
 |---|---|---|
-| Alex | [Entrevista de Apriora (ahora Alex): cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-apriora-alex?ref=gh-guides) | [Apriora (now Alex) AI interview: how to prepare](https://aethel.pro/practice-guides/apriora-alex-ai-interview?ref=gh-guides) |
-| Alignerr | [Entrevista Zara de Alignerr: cómo prepararse para la entrevista con IA](https://aethel.pro/es/guias-de-practica/entrevista-zara-de-alignerr?ref=gh-guides) | [Alignerr AI interview with Zara: how to prepare](https://aethel.pro/practice-guides/alignerr-ai-interview?ref=gh-guides) |
-| Braintrust | [Entrevista con IA de Braintrust AIR: cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-braintrust-air?ref=gh-guides) | [Braintrust AIR AI interview: how to prepare](https://aethel.pro/practice-guides/braintrust-air-ai-interview?ref=gh-guides) |
-| CodeSignal | [Entrevista con IA de CodeSignal y entrevista de programación asistida por IA: cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-codesignal?ref=gh-guides) | [CodeSignal AI interview and AI-assisted coding interview: how to prepare](https://aethel.pro/practice-guides/codesignal-ai-interview?ref=gh-guides) |
-| HackerRank | [Entrevista con IA de HackerRank (Chakra): cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-hackerrank?ref=gh-guides) | [HackerRank AI interview with Chakra: how to prepare](https://aethel.pro/practice-guides/hackerrank-ai-interview?ref=gh-guides) |
-| HireVue | [Entrevista en video de HireVue con evaluación por IA: cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-de-hirevue?ref=gh-guides) | [HireVue video interview and AI assessment: how to prepare](https://aethel.pro/practice-guides/hirevue-ai-interview?ref=gh-guides) |
-| Mercor | [Cómo prepararse para la entrevista con IA de Mercor](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-mercor?ref=gh-guides) | [How to prepare for the Mercor AI interview](https://aethel.pro/practice-guides/mercor-ai-interview?ref=gh-guides) |
-| micro1 | [Entrevista con IA de micro1 con Zara: cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-micro1?ref=gh-guides) | [micro1 AI interview with Zara: how to prepare](https://aethel.pro/practice-guides/micro1-ai-interview?ref=gh-guides) |
+| Alex | [Entrevista de Apriora (ahora Alex): preguntas y proceso](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-apriora-alex?ref=gh-guides) | [Apriora AI interview questions and process (now Alex)](https://aethel.pro/practice-guides/apriora-alex-ai-interview?ref=gh-guides) |
+| Alignerr | [Entrevista Zara de Alignerr: preguntas y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-zara-de-alignerr?ref=gh-guides) | [Alignerr AI interview with Zara: questions and process](https://aethel.pro/practice-guides/alignerr-ai-interview?ref=gh-guides) |
+| Braintrust | [Entrevista con IA de Braintrust AIR: preguntas y proceso](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-braintrust-air?ref=gh-guides) | [Braintrust AIR AI interview questions: how to prepare](https://aethel.pro/practice-guides/braintrust-air-ai-interview?ref=gh-guides) |
+| CodeSignal | [Entrevista con IA de CodeSignal: preguntas y preparación](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-codesignal?ref=gh-guides) | [CodeSignal AI interview and AI-assisted coding: how to prepare](https://aethel.pro/practice-guides/codesignal-ai-interview?ref=gh-guides) |
+| Glider AI | [Entrevista de Glider AI: preguntas, proceso y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-glider-ai?ref=gh-guides) | [Glider AI interview: questions, process, how to prepare](https://aethel.pro/practice-guides/glider-ai-interview?ref=gh-guides) |
+| HackerRank | [Entrevista de HackerRank con Chakra: preguntas y proceso](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-hackerrank?ref=gh-guides) | [HackerRank AI interview (Chakra): questions and process](https://aethel.pro/practice-guides/hackerrank-ai-interview?ref=gh-guides) |
+| HireVue | [Entrevista HireVue con IA y en video: preguntas y pasos](https://aethel.pro/es/guias-de-practica/entrevista-de-hirevue?ref=gh-guides) | [HireVue AI and video interview questions: how to prepare](https://aethel.pro/practice-guides/hirevue-ai-interview?ref=gh-guides) |
+| Mercor | [Entrevista con IA de Mercor: preguntas y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-mercor?ref=gh-guides) | [Mercor AI interview: questions, process, how to prepare](https://aethel.pro/practice-guides/mercor-ai-interview?ref=gh-guides) |
+| micro1 | [Entrevista con Zara de micro1: preguntas y preparación](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-micro1?ref=gh-guides) | [micro1 Zara AI interview: questions and how to prepare](https://aethel.pro/practice-guides/micro1-ai-interview?ref=gh-guides) |
+| Ribbon | [Entrevista con IA de Ribbon: preguntas, proceso y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-ribbon?ref=gh-guides) | [Ribbon AI interview: questions, process, how to prepare](https://aethel.pro/practice-guides/ribbon-ai-interview?ref=gh-guides) |
 
-## Entrevista de Apriora (ahora Alex): cómo prepararse
+## Entrevista de Apriora (ahora Alex): preguntas y proceso
 
 Lo que dicen las páginas públicas de Alex sobre su entrevista con IA, cada línea con su página de origen y el día en que la leímos. Aethel es una empresa aparte y no tiene relación con Alex.
 
@@ -33,7 +35,7 @@ Lo que dicen las páginas públicas de Alex sobre su entrevista con IA, cada lí
 Guía completa (cada dato con su fuente, cómo prepararse paso a paso, lo que no se sabe): https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-apriora-alex?ref=gh-guides
 In English: https://aethel.pro/practice-guides/apriora-alex-ai-interview?ref=gh-guides
 
-## Entrevista Zara de Alignerr: cómo prepararse para la entrevista con IA
+## Entrevista Zara de Alignerr: preguntas y cómo prepararse
 
 Lo que dicen las páginas públicas de Alignerr sobre su entrevista con IA, cada línea con su página de origen y el día en que la leímos. Aethel es una empresa aparte y no tiene relación con Alignerr.
 
@@ -47,7 +49,7 @@ Lo que dicen las páginas públicas de Alignerr sobre su entrevista con IA, cada
 Guía completa (cada dato con su fuente, cómo prepararse paso a paso, lo que no se sabe): https://aethel.pro/es/guias-de-practica/entrevista-zara-de-alignerr?ref=gh-guides
 In English: https://aethel.pro/practice-guides/alignerr-ai-interview?ref=gh-guides
 
-## Entrevista con IA de Braintrust AIR: cómo prepararse
+## Entrevista con IA de Braintrust AIR: preguntas y proceso
 
 Lo que dicen las páginas públicas de Braintrust sobre su entrevista con IA, cada línea con su página de origen y el día en que la leímos. Aethel es una empresa aparte y no tiene relación con Braintrust.
 
@@ -61,7 +63,7 @@ Lo que dicen las páginas públicas de Braintrust sobre su entrevista con IA, ca
 Guía completa (cada dato con su fuente, cómo prepararse paso a paso, lo que no se sabe): https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-braintrust-air?ref=gh-guides
 In English: https://aethel.pro/practice-guides/braintrust-air-ai-interview?ref=gh-guides
 
-## Entrevista con IA de CodeSignal y entrevista de programación asistida por IA: cómo prepararse
+## Entrevista con IA de CodeSignal: preguntas y preparación
 
 Lo que dicen las páginas públicas de CodeSignal sobre su entrevista con IA, cada línea con su página de origen y el día en que la leímos. Aethel es una empresa aparte y no tiene relación con CodeSignal.
 
@@ -75,7 +77,21 @@ Lo que dicen las páginas públicas de CodeSignal sobre su entrevista con IA, ca
 Guía completa (cada dato con su fuente, cómo prepararse paso a paso, lo que no se sabe): https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-codesignal?ref=gh-guides
 In English: https://aethel.pro/practice-guides/codesignal-ai-interview?ref=gh-guides
 
-## Entrevista con IA de HackerRank (Chakra): cómo prepararse
+## Entrevista de Glider AI: preguntas, proceso y cómo prepararse
+
+Lo que dicen las páginas públicas de Glider AI sobre su entrevista con IA, cada línea con su página de origen y el día en que la leímos. Aethel es una empresa aparte y no tiene relación con Glider AI.
+
+**Cómo prepararse para una entrevista de Glider AI**
+
+- **Identifique qué formato le enviaron.** Glider AI ofrece video en un solo sentido, programación en vivo, entrevistas que dirige una persona con ayuda de IA y entrevistas en video con IA. Su invitación o la primera pantalla debería decir cuál es. Prepárese para ese formato, no para los cuatro.
+- **Averigüe en qué idioma será su entrevista.** Glider AI dice que puede entrevistar en el idioma que prefiera el candidato, pero no da una lista. Si la invitación no lo aclara, pregúntele al empleador. Si la entrevista es en inglés, practique en inglés, con frases cortas, los ejemplos que ya sabe contar en español.
+- **Lea las reglas de supervisión antes de aceptar.** Glider AI dice que le muestra qué actividades se permiten antes de empezar y que usted debe aceptar las condiciones. Esas reglas las fija el empleador. Léalas, y pregúntele al empleador si alguna no le queda clara.
+- **Prepare el cuarto como lo piden las reglas.** Glider AI revisa la cámara, el micrófono, la pantalla compartida y la velocidad de internet antes de la sesión, y entre lo que los empleadores suelen no permitir están las personas que entran al cuarto y visitar otros sitios web. Cierre otras pestañas y programas, y use un cuarto donde nadie vaya a entrar.
+
+Guía completa (cada dato con su fuente, cómo prepararse paso a paso, lo que no se sabe): https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-glider-ai?ref=gh-guides
+In English: https://aethel.pro/practice-guides/glider-ai-interview?ref=gh-guides
+
+## Entrevista de HackerRank con Chakra: preguntas y proceso
 
 Lo que dicen las páginas públicas de HackerRank sobre su entrevista con IA, cada línea con su página de origen y el día en que la leímos. Aethel es una empresa aparte y no tiene relación con HackerRank.
 
@@ -89,7 +105,7 @@ Lo que dicen las páginas públicas de HackerRank sobre su entrevista con IA, ca
 Guía completa (cada dato con su fuente, cómo prepararse paso a paso, lo que no se sabe): https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-hackerrank?ref=gh-guides
 In English: https://aethel.pro/practice-guides/hackerrank-ai-interview?ref=gh-guides
 
-## Entrevista en video de HireVue con evaluación por IA: cómo prepararse
+## Entrevista HireVue con IA y en video: preguntas y pasos
 
 Lo que dicen las páginas públicas de HireVue sobre su entrevista con IA, cada línea con su página de origen y el día en que la leímos. Aethel es una empresa aparte y no tiene relación con HireVue.
 
@@ -103,7 +119,7 @@ Lo que dicen las páginas públicas de HireVue sobre su entrevista con IA, cada 
 Guía completa (cada dato con su fuente, cómo prepararse paso a paso, lo que no se sabe): https://aethel.pro/es/guias-de-practica/entrevista-de-hirevue?ref=gh-guides
 In English: https://aethel.pro/practice-guides/hirevue-ai-interview?ref=gh-guides
 
-## Cómo prepararse para la entrevista con IA de Mercor
+## Entrevista con IA de Mercor: preguntas y cómo prepararse
 
 Lo que dicen las páginas públicas de Mercor sobre su entrevista con IA, cada línea con su página de origen y el día en que la leímos. Aethel es una empresa aparte y no tiene relación con Mercor.
 
@@ -117,7 +133,7 @@ Lo que dicen las páginas públicas de Mercor sobre su entrevista con IA, cada l
 Guía completa (cada dato con su fuente, cómo prepararse paso a paso, lo que no se sabe): https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-mercor?ref=gh-guides
 In English: https://aethel.pro/practice-guides/mercor-ai-interview?ref=gh-guides
 
-## Entrevista con IA de micro1 con Zara: cómo prepararse
+## Entrevista con Zara de micro1: preguntas y preparación
 
 Lo que dicen las páginas públicas de micro1 sobre su entrevista con IA, cada línea con su página de origen y el día en que la leímos. Aethel es una empresa aparte y no tiene relación con micro1.
 
@@ -131,11 +147,26 @@ Lo que dicen las páginas públicas de micro1 sobre su entrevista con IA, cada l
 Guía completa (cada dato con su fuente, cómo prepararse paso a paso, lo que no se sabe): https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-micro1?ref=gh-guides
 In English: https://aethel.pro/practice-guides/micro1-ai-interview?ref=gh-guides
 
+## Entrevista con IA de Ribbon: preguntas, proceso y cómo prepararse
+
+Lo que dicen las páginas públicas de Ribbon sobre su entrevista con IA, cada línea con su página de origen y el día en que la leímos. Aethel es una empresa aparte y no tiene relación con Ribbon.
+
+**Cómo prepararse para una entrevista con IA de Ribbon**
+
+- **Lea en la invitación la fecha límite y la duración.** Ribbon le permite al empleador poner en el mensaje el puesto, la duración prevista y una fecha límite. Anote la fecha límite y reserve media hora libre antes de ella, ya que Ribbon dice que las entrevistas suelen durar unos 20 minutos.
+- **Pregunte por el idioma antes de empezar.** El empleador elige el idioma al preparar el puesto, y Ribbon lista el español de América Latina entre sus idiomas. Si la invitación está en inglés y no dice nada, pregunte. Si la entrevista es en inglés, practique en inglés, con frases cortas, los ejemplos que ya sabe contar en español.
+- **Busque un lugar tranquilo y una conexión estable.** Ribbon dice que la entrevista se siente como una llamada y empieza con una prueba de sonido. Use un cuarto sin ruido, un teléfono o una computadora con el navegador al día, y audífonos si su cuarto hace eco. Si el empleador pide video, tenga lista la cámara.
+- **Ubique las habilidades que pide el puesto.** Ribbon califica a cada candidato con una rúbrica que el empleador fijó para el puesto. Lea el aviso de empleo, anote las habilidades que nombra y elija un ejemplo real de su trabajo para cada una.
+
+Guía completa (cada dato con su fuente, cómo prepararse paso a paso, lo que no se sabe): https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-ribbon?ref=gh-guides
+In English: https://aethel.pro/practice-guides/ribbon-ai-interview?ref=gh-guides
+
 ## Cómo se mantiene esta lista
 
 - Cada línea viene de las páginas públicas de la propia empresa, leídas sin iniciar sesión, con el enlace y el día de lectura. Nada de foros, sitios de reseñas ni noticias.
 - Ninguna pregunta de entrevista de ninguna empresa, y nada sobre cómo saltarse una entrevista.
 - ¿Encontró una línea desactualizada? Abra un issue con la página de la empresa que diga otra cosa.
+- Practique en su propia terminal: [ai-interview-practice](https://github.com/DPWonder/ai-interview-practice), una skill abierta para un agente de código que hace una entrevista de práctica con IA, en inglés y en español.
 - English: [README.md](README.md).
 
 Texto: CC BY 4.0. Los nombres de las empresas se usan solo para decir de quién es la entrevista de cada guía.
