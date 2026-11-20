@@ -1,6 +1,6 @@
 # Entrevistas con IA por empresa: qué esperar y cómo prepararse
 
-Las entrevistas con IA de Alex, Alignerr, Braintrust, CodeSignal, Glider AI, HackerRank, HireVue, Mercor, micro1 y Ribbon: el formato, cuánto dura, qué tipo de preguntas dice la empresa que hace, qué se graba y quién lo revisa. Solo lo que dicen las páginas públicas de cada empresa, cada línea con su fuente y el día en que se leyó (lectura más reciente: 2026-11-19).
+Las entrevistas con IA de Alex, Alignerr, Braintrust, Coderbyte, CodeSignal, Crossover, Glider AI, HackerRank, HireVue, Karat, Mercor, micro1, Ribbon, Sapia.ai, Spark Hire, Talview, VidCruiter y Willo: el formato, cuánto dura, qué tipo de preguntas dice la empresa que hace, qué se graba y quién lo revisa. Solo lo que dicen las páginas públicas de cada empresa, cada línea con su fuente y el día en que se leyó (lectura más reciente: 2026-11-19).
 
 Mantenida por Aethel, práctica gratuita de entrevistas con IA para desarrolladores: [practique ahora, sin cuenta](https://aethel.pro/es/practica-de-entrevista-con-ia?ref=gh-guides). Aethel es una empresa aparte y no tiene relación con ninguna empresa de esta lista.
 
@@ -13,13 +13,21 @@ Mantenida por Aethel, práctica gratuita de entrevistas con IA para desarrollado
 | Alex | [Entrevista de Apriora (ahora Alex): preguntas y proceso](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-apriora-alex?ref=gh-guides) | [Apriora AI interview questions and process (now Alex)](https://aethel.pro/practice-guides/apriora-alex-ai-interview?ref=gh-guides) |
 | Alignerr | [Entrevista Zara de Alignerr: preguntas y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-zara-de-alignerr?ref=gh-guides) | [Alignerr AI interview with Zara: questions and process](https://aethel.pro/practice-guides/alignerr-ai-interview?ref=gh-guides) |
 | Braintrust | [Entrevista con IA de Braintrust AIR: preguntas y proceso](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-braintrust-air?ref=gh-guides) | [Braintrust AIR AI interview questions: how to prepare](https://aethel.pro/practice-guides/braintrust-air-ai-interview?ref=gh-guides) |
+| Coderbyte | [Entrevista de Coderbyte: preguntas, proceso y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-de-coderbyte?ref=gh-guides) | [Coderbyte interview: questions, process, how to prepare](https://aethel.pro/practice-guides/coderbyte-interview?ref=gh-guides) |
 | CodeSignal | [Entrevista con IA de CodeSignal: preguntas y preparación](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-codesignal?ref=gh-guides) | [CodeSignal AI interview and AI-assisted coding: how to prepare](https://aethel.pro/practice-guides/codesignal-ai-interview?ref=gh-guides) |
+| Crossover | [Entrevista con IA de Crossover: preguntas, proceso y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-crossover?ref=gh-guides) | [Crossover AI interview: questions, process, how to prepare](https://aethel.pro/practice-guides/crossover-ai-interview?ref=gh-guides) |
 | Glider AI | [Entrevista de Glider AI: preguntas, proceso y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-glider-ai?ref=gh-guides) | [Glider AI interview: questions, process, how to prepare](https://aethel.pro/practice-guides/glider-ai-interview?ref=gh-guides) |
 | HackerRank | [Entrevista de HackerRank con Chakra: preguntas y proceso](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-hackerrank?ref=gh-guides) | [HackerRank AI interview (Chakra): questions and process](https://aethel.pro/practice-guides/hackerrank-ai-interview?ref=gh-guides) |
 | HireVue | [Entrevista HireVue con IA y en video: preguntas y pasos](https://aethel.pro/es/guias-de-practica/entrevista-de-hirevue?ref=gh-guides) | [HireVue AI and video interview questions: how to prepare](https://aethel.pro/practice-guides/hirevue-ai-interview?ref=gh-guides) |
+| Karat | [Entrevista de Karat: preguntas, proceso y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-de-karat?ref=gh-guides) | [Karat interview: questions, process, how to prepare](https://aethel.pro/practice-guides/karat-interview?ref=gh-guides) |
 | Mercor | [Entrevista con IA de Mercor: preguntas y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-mercor?ref=gh-guides) | [Mercor AI interview: questions, process, how to prepare](https://aethel.pro/practice-guides/mercor-ai-interview?ref=gh-guides) |
 | micro1 | [Entrevista con Zara de micro1: preguntas y preparación](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-micro1?ref=gh-guides) | [micro1 Zara AI interview: questions and how to prepare](https://aethel.pro/practice-guides/micro1-ai-interview?ref=gh-guides) |
 | Ribbon | [Entrevista con IA de Ribbon: preguntas, proceso y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-ribbon?ref=gh-guides) | [Ribbon AI interview: questions, process, how to prepare](https://aethel.pro/practice-guides/ribbon-ai-interview?ref=gh-guides) |
+| Sapia.ai | [Entrevista con IA de Sapia.ai: preguntas, proceso y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-sapia?ref=gh-guides) | [Sapia AI interview: questions, process, how to prepare](https://aethel.pro/practice-guides/sapia-ai-interview?ref=gh-guides) |
+| Spark Hire | [Entrevista en video de Spark Hire: preguntas, proceso y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-en-video-de-spark-hire?ref=gh-guides) | [Spark Hire one-way interview: questions, process, how to prepare](https://aethel.pro/practice-guides/spark-hire-one-way-interview?ref=gh-guides) |
+| Talview | [Entrevista de Talview: preguntas, proceso y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-de-talview?ref=gh-guides) | [Talview interview: questions, process, how to prepare](https://aethel.pro/practice-guides/talview-interview?ref=gh-guides) |
+| VidCruiter | [Entrevista de VidCruiter: preguntas, proceso y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-de-vidcruiter?ref=gh-guides) | [VidCruiter interview: questions, process, how to prepare](https://aethel.pro/practice-guides/vidcruiter-interview?ref=gh-guides) |
+| Willo | [Entrevista de Willo: preguntas, proceso y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-de-willo?ref=gh-guides) | [Willo interview: questions, process, how to prepare](https://aethel.pro/practice-guides/willo-interview?ref=gh-guides) |
 
 ## Entrevista de Apriora (ahora Alex): preguntas y proceso
 
@@ -63,6 +71,20 @@ Lo que dicen las páginas públicas de Braintrust sobre su entrevista con IA, ca
 Guía completa (cada dato con su fuente, cómo prepararse paso a paso, lo que no se sabe): https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-braintrust-air?ref=gh-guides
 In English: https://aethel.pro/practice-guides/braintrust-air-ai-interview?ref=gh-guides
 
+## Entrevista de Coderbyte: preguntas, proceso y cómo prepararse
+
+Lo que dicen las páginas públicas de Coderbyte sobre su entrevista con IA, cada línea con su página de origen y el día en que la leímos. Aethel es una empresa aparte y no tiene relación con Coderbyte.
+
+**Cómo prepararse para una entrevista de Coderbyte**
+
+- **Averigüe qué formato le tocó.** Una invitación de Coderbyte puede ser una entrevista en vivo, una llamada de filtro con IA o una prueba con tiempo, y cada una se prepara distinto. Lea bien la invitación y, si no lo dice, pregúntele al reclutador cuál es y cuánto dura.
+- **Pregunte por el idioma.** Coderbyte dice que el empleador puede poner la llamada de filtro en español, pero también en inglés, polaco o portugués. Si su invitación no dice el idioma, pregunte. Si es en inglés, practique en inglés, con frases cortas, los proyectos que ya sabe contar en español.
+- **Pregunte qué ayuda de IA se permite.** En Coderbyte el empleador decide si usted puede abrir ChatGPT u otro modelo de IA, solo cuando el entrevistador lo permite, o nunca. Pregunte antes del día y use una herramienta de IA solo si le dijeron que puede.
+- **Pruebe el editor antes de empezar.** Si el empleador deja la sala de espera apagada, Coderbyte dice que puede entrar antes al editor de código y practicar ahí. Use esos minutos para revisar su cámara, su micrófono y el lenguaje en que va a programar.
+
+Guía completa (cada dato con su fuente, cómo prepararse paso a paso, lo que no se sabe): https://aethel.pro/es/guias-de-practica/entrevista-de-coderbyte?ref=gh-guides
+In English: https://aethel.pro/practice-guides/coderbyte-interview?ref=gh-guides
+
 ## Entrevista con IA de CodeSignal: preguntas y preparación
 
 Lo que dicen las páginas públicas de CodeSignal sobre su entrevista con IA, cada línea con su página de origen y el día en que la leímos. Aethel es una empresa aparte y no tiene relación con CodeSignal.
@@ -76,6 +98,20 @@ Lo que dicen las páginas públicas de CodeSignal sobre su entrevista con IA, ca
 
 Guía completa (cada dato con su fuente, cómo prepararse paso a paso, lo que no se sabe): https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-codesignal?ref=gh-guides
 In English: https://aethel.pro/practice-guides/codesignal-ai-interview?ref=gh-guides
+
+## Entrevista con IA de Crossover: preguntas, proceso y cómo prepararse
+
+Lo que dicen las páginas públicas de Crossover sobre su entrevista con IA, cada línea con su página de origen y el día en que la leímos. Aethel es una empresa aparte y no tiene relación con Crossover.
+
+**Cómo prepararse para la entrevista con IA de Crossover**
+
+- **Ponga su trabajo real en el PDF.** Crossover dice que la IA lee su currículum y sus respuestas. Antes de empezar, revise que el PDF nombre las herramientas que usó, cuánto tiempo y en qué tipo de empresa, porque eso es lo que dice que busca.
+- **Prepare sus ejemplos en inglés.** Crossover dice que el inglés es el idioma común de sus puestos. Escriba en inglés, con frases cortas, los ejemplos que ya sabe contar en español, y tenga a mano los nombres de herramientas y cargos como aparecen en su currículum.
+- **Lea los requisitos del aviso.** Anote cada requisito que pide el aviso. Junto a cada uno, ponga un proyecto real donde lo cumplió, con la herramienta, el tamaño del trabajo y lo que hizo usted.
+- **Reserve 30 minutos libres.** Crossover dice que el chat suele durar de 15 a 20 minutos y puede durar más. Elija un momento sin reuniones después, para no apurar las últimas respuestas.
+
+Guía completa (cada dato con su fuente, cómo prepararse paso a paso, lo que no se sabe): https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-crossover?ref=gh-guides
+In English: https://aethel.pro/practice-guides/crossover-ai-interview?ref=gh-guides
 
 ## Entrevista de Glider AI: preguntas, proceso y cómo prepararse
 
@@ -119,6 +155,20 @@ Lo que dicen las páginas públicas de HireVue sobre su entrevista con IA, cada 
 Guía completa (cada dato con su fuente, cómo prepararse paso a paso, lo que no se sabe): https://aethel.pro/es/guias-de-practica/entrevista-de-hirevue?ref=gh-guides
 In English: https://aethel.pro/practice-guides/hirevue-ai-interview?ref=gh-guides
 
+## Entrevista de Karat: preguntas, proceso y cómo prepararse
+
+Lo que dicen las páginas públicas de Karat sobre su entrevista con IA, cada línea con su página de origen y el día en que la leímos. Aethel es una empresa aparte y no tiene relación con Karat.
+
+**Cómo prepararse para una entrevista de Karat**
+
+- **Lea el correo que le envía Karat.** Karat dice que al agendar le manda un correo personalizado con qué esperar y cómo prepararse. Léalo primero: las preguntas dependen de la empresa y del puesto, así que ese correo es la mejor guía de su propia entrevista.
+- **Prepárese para hablar en inglés.** Karat dice que sus Interview Engineers hablan inglés fluido, y las páginas que leímos no mencionan entrevistas en otro idioma. Si su correo no dice el idioma, pregunte. Practique en inglés frases cortas para decir qué va a hacer, qué duda tiene y por qué elige una solución.
+- **Elija una hora en la que piense con claridad.** Karat le deja elegir la hora, incluso de noche y en fin de semana. Tome una hora en la que esté descansado, no el primer espacio libre, y revise su cámara, su micrófono y su conexión antes de empezar.
+- **Hable mientras programa.** Hay una persona con usted que puede guiarlo. Diga lo que piensa hacer antes de escribir, diga cuándo tiene dudas y pregunte si el problema no está claro. El entrevistador solo puede usar lo que usted dice y lo que escribe.
+
+Guía completa (cada dato con su fuente, cómo prepararse paso a paso, lo que no se sabe): https://aethel.pro/es/guias-de-practica/entrevista-de-karat?ref=gh-guides
+In English: https://aethel.pro/practice-guides/karat-interview?ref=gh-guides
+
 ## Entrevista con IA de Mercor: preguntas y cómo prepararse
 
 Lo que dicen las páginas públicas de Mercor sobre su entrevista con IA, cada línea con su página de origen y el día en que la leímos. Aethel es una empresa aparte y no tiene relación con Mercor.
@@ -160,6 +210,76 @@ Lo que dicen las páginas públicas de Ribbon sobre su entrevista con IA, cada l
 
 Guía completa (cada dato con su fuente, cómo prepararse paso a paso, lo que no se sabe): https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-ribbon?ref=gh-guides
 In English: https://aethel.pro/practice-guides/ribbon-ai-interview?ref=gh-guides
+
+## Entrevista con IA de Sapia.ai: preguntas, proceso y cómo prepararse
+
+Lo que dicen las páginas públicas de Sapia.ai sobre su entrevista con IA, cada línea con su página de origen y el día en que la leímos. Aethel es una empresa aparte y no tiene relación con Sapia.ai.
+
+**Cómo prepararse para la entrevista por chat de Sapia.ai**
+
+- **Guarde el correo con su enlace.** Sapia.ai le envía un enlace al empezar, y sus respuestas quedan guardadas ahí. Busque ese correo antes de comenzar (revise también el correo no deseado), para que una pestaña cerrada no le cueste sus respuestas.
+- **Vea en qué idioma están las preguntas.** La página de Sapia.ai no dice en qué idiomas se ofrece la entrevista. Si las preguntas están en inglés, responda en inglés con frases cortas y simples, y revise la ortografía antes de enviar cada respuesta. Si no está claro, pregunte al empleador.
+- **Elija tres o cuatro ejemplos reales antes.** Las preguntas piden sobre todo un ejemplo de cómo actuó en el trabajo o fuera de él. Antes de empezar, anote tres o cuatro momentos reales: un error que encontró, una fecha de entrega, un desacuerdo, algo que aprendió rápido.
+- **Escriba cada respuesta como una historia corta.** Apunte a 50 a 100 palabras: la situación en una línea, qué hizo, por qué y qué cambió. Un ejemplo de desarrollo puede ser simple: sin código, solo el problema y su parte.
+
+Guía completa (cada dato con su fuente, cómo prepararse paso a paso, lo que no se sabe): https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-sapia?ref=gh-guides
+In English: https://aethel.pro/practice-guides/sapia-ai-interview?ref=gh-guides
+
+## Entrevista en video de Spark Hire: preguntas, proceso y cómo prepararse
+
+Lo que dicen las páginas públicas de Spark Hire sobre su entrevista con IA, cada línea con su página de origen y el día en que la leímos. Aethel es una empresa aparte y no tiene relación con Spark Hire.
+
+**Cómo prepararse para una entrevista en video de Spark Hire**
+
+- **Anote la fecha límite en su propio horario.** La guía de Spark Hire pide tener en cuenta la fecha límite y la diferencia de horario. Pase la fecha límite a su hora local y planee grabar un día antes, para que un problema con la cámara todavía le deje tiempo de escribir al empleador.
+- **Confirme en qué idioma debe responder.** Las preguntas están en el idioma que eligió el empleador. Si están en inglés, responda en inglés, con frases cortas, los ejemplos que ya sabe contar en español. Si no está claro, pregunte al empleador antes de grabar.
+- **Use primero la grabación de práctica.** Spark Hire ofrece una prueba de cámara y micrófono y grabaciones de práctica antes de las preguntas reales. Grabe una respuesta de práctica y mírela: revise que la luz le dé de frente y que su voz se oiga clara.
+- **Lea la configuración de cada pregunta antes de empezar.** Cada pregunta puede tener su propio tiempo para pensar, duración y número de intentos. Lea las indicaciones de cada pregunta antes de grabar, para que un solo intento no lo tome por sorpresa.
+
+Guía completa (cada dato con su fuente, cómo prepararse paso a paso, lo que no se sabe): https://aethel.pro/es/guias-de-practica/entrevista-en-video-de-spark-hire?ref=gh-guides
+In English: https://aethel.pro/practice-guides/spark-hire-one-way-interview?ref=gh-guides
+
+## Entrevista de Talview: preguntas, proceso y cómo prepararse
+
+Lo que dicen las páginas públicas de Talview sobre su entrevista con IA, cada línea con su página de origen y el día en que la leímos. Aethel es una empresa aparte y no tiene relación con Talview.
+
+**Cómo prepararse para una entrevista de Talview**
+
+- **Lea en la invitación el formato y la fecha.** Talview tiene entrevista en video grabada, sala en vivo e Ivy, su entrevistador con IA. Su invitación trae el puesto, la fecha límite con su zona horaria y su código de verificación. Anote los tres antes del día para que el formato no lo sorprenda.
+- **Pregunte por el idioma antes del día.** Talview dice que Ivy entrevista en 42 idiomas, pero el empleador arma la entrevista. Si la invitación está en inglés y no dice nada, pregunte a su persona de contacto. Si será en inglés, practique en inglés los ejemplos que ya sabe contar en español.
+- **Revise su computadora con la lista de Talview.** Talview pide un Chrome, Edge o Firefox reciente, 5 Mbps de subida y de bajada, y un Windows o macOS reciente en su propia laptop o computadora. Una laptop del trabajo con permisos bloqueados puede impedir la cámara, así que pruebe en la máquina que va a usar.
+- **Prepare el cuarto antes de grabarlo.** Si su entrevista tiene prueba del entorno, en un minuto graba su mesa, el techo y el piso. Despeje la mesa, prenda la luz y saque del cuarto notas y una segunda pantalla antes de empezar.
+
+Guía completa (cada dato con su fuente, cómo prepararse paso a paso, lo que no se sabe): https://aethel.pro/es/guias-de-practica/entrevista-de-talview?ref=gh-guides
+In English: https://aethel.pro/practice-guides/talview-interview?ref=gh-guides
+
+## Entrevista de VidCruiter: preguntas, proceso y cómo prepararse
+
+Lo que dicen las páginas públicas de VidCruiter sobre su entrevista con IA, cada línea con su página de origen y el día en que la leímos. Aethel es una empresa aparte y no tiene relación con VidCruiter.
+
+**Cómo prepararse para una entrevista de VidCruiter**
+
+- **Pruebe su equipo un día antes.** VidCruiter enlaza una herramienta Tech Check para la cámara y el micrófono. Úsela en la computadora y en el cuarto donde va a grabar, así un permiso del navegador o una conexión lenta aparece un día antes y no en la primera pregunta.
+- **Pregunte primero por el idioma.** VidCruiter lista el español entre sus idiomas, pero el empleador arma la entrevista. Si la invitación está en inglés y no dice nada, pregunte. Si la entrevista es en inglés, practique en inglés, con frases cortas, los ejemplos que ya sabe contar en español.
+- **Use la pregunta de práctica como ensayo.** VidCruiter dice que la pregunta de práctica no se usa para evaluarlo. Tómela en serio: revise que su cara tenga luz, que mire a la cámara y cómo se oye su voz al reproducirla.
+- **Lea los tiempos antes de grabar.** El empleador fija el tiempo para pensar, el tiempo para grabar y el número de intentos. Lea cada pantalla de instrucciones antes de grabar y prepare respuestas que quepan en el tiempo que ve ahí.
+
+Guía completa (cada dato con su fuente, cómo prepararse paso a paso, lo que no se sabe): https://aethel.pro/es/guias-de-practica/entrevista-de-vidcruiter?ref=gh-guides
+In English: https://aethel.pro/practice-guides/vidcruiter-interview?ref=gh-guides
+
+## Entrevista de Willo: preguntas, proceso y cómo prepararse
+
+Lo que dicen las páginas públicas de Willo sobre su entrevista con IA, cada línea con su página de origen y el día en que la leímos. Aethel es una empresa aparte y no tiene relación con Willo.
+
+**Cómo prepararse para una entrevista de Willo**
+
+- **No empiece hasta tener tiempo para terminar.** Willo le da 12 horas para enviar todo desde que responde la primera pregunta. Abra el enlace antes para leer las instrucciones y probar la pregunta de ejemplo, pero empiece las preguntas reales solo cuando pueda terminar de una vez.
+- **Elija el idioma de la pantalla y pregunte por el de las preguntas.** Willo deja elegir entre 18 idiomas para la pantalla, pero el empleador escribe las preguntas. Si la invitación está en inglés, prepare en inglés, con frases cortas, los ejemplos que ya sabe contar en español.
+- **Cierre todo lo demás primero.** Willo dice que si hay otras pestañas o aplicaciones abiertas no podrá terminar la entrevista. Cierre el editor de código, el chat y las videollamadas, y apague las notificaciones antes de grabar.
+- **Use la pregunta de ejemplo las veces que necesite.** Willo dice que el modo de práctica no guarda nada. Grabe la pregunta de ejemplo hasta que su cara tenga luz, su cabeza y sus hombros estén centrados, y se oiga bien al reproducirla.
+
+Guía completa (cada dato con su fuente, cómo prepararse paso a paso, lo que no se sabe): https://aethel.pro/es/guias-de-practica/entrevista-de-willo?ref=gh-guides
+In English: https://aethel.pro/practice-guides/willo-interview?ref=gh-guides
 
 ## Cómo se mantiene esta lista
 

@@ -1,6 +1,6 @@
 # AI interviews by company: what to expect and how to prepare
 
-The AI interviews of Alex, Alignerr, Braintrust, CodeSignal, Glider AI, HackerRank, HireVue, Mercor, micro1 and Ribbon: the format, how long it takes, what kinds of questions the company says it asks, what is recorded and who reviews it. Only what each company's own public pages say, each line with its source and the day it was read (newest reading: 2026-11-19).
+The AI interviews of Alex, Alignerr, Braintrust, Coderbyte, CodeSignal, Crossover, Glider AI, HackerRank, HireVue, Karat, Mercor, micro1, Ribbon, Sapia.ai, Spark Hire, Talview, VidCruiter and Willo: the format, how long it takes, what kinds of questions the company says it asks, what is recorded and who reviews it. Only what each company's own public pages say, each line with its source and the day it was read (newest reading: 2026-11-19).
 
 Kept by [Aethel](https://aethel.pro/?ref=gh-guides), free AI interview practice for developers: [practice now, no account](https://aethel.pro/practice?ref=gh-guides). Aethel is a separate company and is not affiliated with any company listed here.
 
@@ -13,13 +13,21 @@ Kept by [Aethel](https://aethel.pro/?ref=gh-guides), free AI interview practice 
 | Alex | [Apriora AI interview questions and process (now Alex)](https://aethel.pro/practice-guides/apriora-alex-ai-interview?ref=gh-guides) | [Entrevista de Apriora (ahora Alex): preguntas y proceso](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-apriora-alex?ref=gh-guides) |
 | Alignerr | [Alignerr AI interview with Zara: questions and process](https://aethel.pro/practice-guides/alignerr-ai-interview?ref=gh-guides) | [Entrevista Zara de Alignerr: preguntas y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-zara-de-alignerr?ref=gh-guides) |
 | Braintrust | [Braintrust AIR AI interview questions: how to prepare](https://aethel.pro/practice-guides/braintrust-air-ai-interview?ref=gh-guides) | [Entrevista con IA de Braintrust AIR: preguntas y proceso](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-braintrust-air?ref=gh-guides) |
+| Coderbyte | [Coderbyte interview: questions, process, how to prepare](https://aethel.pro/practice-guides/coderbyte-interview?ref=gh-guides) | [Entrevista de Coderbyte: preguntas, proceso y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-de-coderbyte?ref=gh-guides) |
 | CodeSignal | [CodeSignal AI interview and AI-assisted coding: how to prepare](https://aethel.pro/practice-guides/codesignal-ai-interview?ref=gh-guides) | [Entrevista con IA de CodeSignal: preguntas y preparación](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-codesignal?ref=gh-guides) |
+| Crossover | [Crossover AI interview: questions, process, how to prepare](https://aethel.pro/practice-guides/crossover-ai-interview?ref=gh-guides) | [Entrevista con IA de Crossover: preguntas, proceso y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-crossover?ref=gh-guides) |
 | Glider AI | [Glider AI interview: questions, process, how to prepare](https://aethel.pro/practice-guides/glider-ai-interview?ref=gh-guides) | [Entrevista de Glider AI: preguntas, proceso y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-glider-ai?ref=gh-guides) |
 | HackerRank | [HackerRank AI interview (Chakra): questions and process](https://aethel.pro/practice-guides/hackerrank-ai-interview?ref=gh-guides) | [Entrevista de HackerRank con Chakra: preguntas y proceso](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-hackerrank?ref=gh-guides) |
 | HireVue | [HireVue AI and video interview questions: how to prepare](https://aethel.pro/practice-guides/hirevue-ai-interview?ref=gh-guides) | [Entrevista HireVue con IA y en video: preguntas y pasos](https://aethel.pro/es/guias-de-practica/entrevista-de-hirevue?ref=gh-guides) |
+| Karat | [Karat interview: questions, process, how to prepare](https://aethel.pro/practice-guides/karat-interview?ref=gh-guides) | [Entrevista de Karat: preguntas, proceso y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-de-karat?ref=gh-guides) |
 | Mercor | [Mercor AI interview: questions, process, how to prepare](https://aethel.pro/practice-guides/mercor-ai-interview?ref=gh-guides) | [Entrevista con IA de Mercor: preguntas y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-mercor?ref=gh-guides) |
 | micro1 | [micro1 Zara AI interview: questions and how to prepare](https://aethel.pro/practice-guides/micro1-ai-interview?ref=gh-guides) | [Entrevista con Zara de micro1: preguntas y preparación](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-micro1?ref=gh-guides) |
 | Ribbon | [Ribbon AI interview: questions, process, how to prepare](https://aethel.pro/practice-guides/ribbon-ai-interview?ref=gh-guides) | [Entrevista con IA de Ribbon: preguntas, proceso y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-ribbon?ref=gh-guides) |
+| Sapia.ai | [Sapia AI interview: questions, process, how to prepare](https://aethel.pro/practice-guides/sapia-ai-interview?ref=gh-guides) | [Entrevista con IA de Sapia.ai: preguntas, proceso y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-sapia?ref=gh-guides) |
+| Spark Hire | [Spark Hire one-way interview: questions, process, how to prepare](https://aethel.pro/practice-guides/spark-hire-one-way-interview?ref=gh-guides) | [Entrevista en video de Spark Hire: preguntas, proceso y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-en-video-de-spark-hire?ref=gh-guides) |
+| Talview | [Talview interview: questions, process, how to prepare](https://aethel.pro/practice-guides/talview-interview?ref=gh-guides) | [Entrevista de Talview: preguntas, proceso y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-de-talview?ref=gh-guides) |
+| VidCruiter | [VidCruiter interview: questions, process, how to prepare](https://aethel.pro/practice-guides/vidcruiter-interview?ref=gh-guides) | [Entrevista de VidCruiter: preguntas, proceso y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-de-vidcruiter?ref=gh-guides) |
+| Willo | [Willo interview: questions, process, how to prepare](https://aethel.pro/practice-guides/willo-interview?ref=gh-guides) | [Entrevista de Willo: preguntas, proceso y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-de-willo?ref=gh-guides) |
 
 ## Apriora AI interview questions and process (now Alex)
 
@@ -89,6 +97,29 @@ What Braintrust's own public pages say about its AI interview, each line with th
 Full guide (every fact with its source, how to prepare step by step, what is not known): https://aethel.pro/practice-guides/braintrust-air-ai-interview?ref=gh-guides
 En español: https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-braintrust-air?ref=gh-guides
 
+## Coderbyte interview: questions, process, how to prepare
+
+What Coderbyte's own public pages say about its AI interview, each line with the page it comes from and the day we read it. Aethel is a separate company and is not affiliated with Coderbyte.
+
+| | What Coderbyte's own pages say | Source (day read) |
+|---|---|---|
+| Interviewer | with AI or human interviewers | [coderbyte.com](https://coderbyte.com/) (2026-11-19) |
+| Where you code | a code editor, a spreadsheet, a Jupyter Notebook or a whiteboard | [help.coderbyte.com](https://help.coderbyte.com/knowledge/interview) (2026-11-19) |
+| ChatGPT | when an interviewer prompts them | [help.coderbyte.com](https://help.coderbyte.com/knowledge/use-chatgpt-during-interviews) (2026-11-19) |
+| Video | does not record audio or video from these built-in calls | [help.coderbyte.com](https://help.coderbyte.com/knowledge/video-chat-during-an-interview) (2026-11-19) |
+| Replay | including tab switching and copying and pasting | [help.coderbyte.com](https://help.coderbyte.com/knowledge/code-interview-playback-slideshow) (2026-11-19) |
+| Phone screen languages | English, Polish, Portuguese or Spanish | [help.coderbyte.com](https://help.coderbyte.com/knowledge/agentic-phone-screens) (2026-11-19) |
+
+**How to prepare for a Coderbyte interview**
+
+- **Find out which format you have.** A Coderbyte invitation can be a live interview, an AI phone screen or a timed test, and each is prepared differently. Read the invitation closely, and if it does not say, ask the recruiter which one it is and how long it takes.
+- **Ask what AI help is allowed.** On Coderbyte the employer decides whether you can open ChatGPT or another AI model, only when the interviewer allows it, or not at all. Ask before the day, and use an AI tool only when you were told you may.
+- **Try the editor before it starts.** If the employer leaves the lobby off, Coderbyte says you can enter the code editor early and practice in it. Use those minutes to check your camera, microphone and the language you will write in.
+- **Work as if every step is seen.** Coderbyte lets interviewers replay the session, tab switches and pastes included, and webcam checks on a test can flag looking away. Keep to the one tab, write your own code, and say out loud what you are doing in a live session.
+
+Full guide (every fact with its source, how to prepare step by step, what is not known): https://aethel.pro/practice-guides/coderbyte-interview?ref=gh-guides
+En español: https://aethel.pro/es/guias-de-practica/entrevista-de-coderbyte?ref=gh-guides
+
 ## CodeSignal AI interview and AI-assisted coding: how to prepare
 
 What CodeSignal's own public pages say about its AI interview, each line with the page it comes from and the day we read it. Aethel is a separate company and is not affiliated with CodeSignal.
@@ -110,6 +141,29 @@ What CodeSignal's own public pages say about its AI interview, each line with th
 
 Full guide (every fact with its source, how to prepare step by step, what is not known): https://aethel.pro/practice-guides/codesignal-ai-interview?ref=gh-guides
 En español: https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-codesignal?ref=gh-guides
+
+## Crossover AI interview: questions, process, how to prepare
+
+What Crossover's own public pages say about its AI interview, each line with the page it comes from and the day we read it. Aethel is a separate company and is not affiliated with Crossover.
+
+| | What Crossover's own pages say | Source (day read) |
+|---|---|---|
+| Format | AI-powered conversation with a chatbot | [crossover.com](https://www.crossover.com/resources/crossover-s-basic-fit-check-official-ai-screening-guide) (2026-11-19) |
+| Length | usually takes 15 to 20 minutes | [crossover.com](https://www.crossover.com/resources/crossover-s-basic-fit-check-official-ai-screening-guide) (2026-11-19) |
+| Questions | non-technical and entirely experience-based | [crossover.com](https://www.crossover.com/resources/crossover-s-basic-fit-check-official-ai-screening-guide) (2026-11-19) |
+| Tries | can only be completed once per job | [crossover.com](https://www.crossover.com/resources/crossover-s-basic-fit-check-official-ai-screening-guide) (2026-11-19) |
+| Pausing | can pause and resume the chat at any time | [crossover.com](https://www.crossover.com/resources/crossover-s-basic-fit-check-official-ai-screening-guide) (2026-11-19) |
+| Who decides | hiring decisions are made later in the process by human subject matter experts | [crossover.com](https://www.crossover.com/resources/crossover-s-basic-fit-check-official-ai-screening-guide) (2026-11-19) |
+
+**How to prepare for the Crossover AI interview**
+
+- **Put your real work in the PDF first.** Crossover says the AI reads both your resume and your chat answers. Before you start, make sure the PDF names the tools you used, how long you used them and the kind of company, since those are the things it says it looks for.
+- **Read the must-haves in the job post.** Write down each requirement the post lists. Next to each one, put a real project where you met it, with the tool, the size of the work and your own part.
+- **Keep 30 minutes free.** Crossover says the chat usually takes 15 to 20 minutes and can run longer. Pick a time with no meeting after it, so you never have to rush the last answers.
+- **Answer with one concrete example.** Crossover says generic answers do not get far. Give one project per answer: what the problem was, what you did, which tools, and what changed. A number or a time span helps.
+
+Full guide (every fact with its source, how to prepare step by step, what is not known): https://aethel.pro/practice-guides/crossover-ai-interview?ref=gh-guides
+En español: https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-crossover?ref=gh-guides
 
 ## Glider AI interview: questions, process, how to prepare
 
@@ -179,6 +233,29 @@ What HireVue's own public pages say about its AI interview, each line with the p
 Full guide (every fact with its source, how to prepare step by step, what is not known): https://aethel.pro/practice-guides/hirevue-ai-interview?ref=gh-guides
 En español: https://aethel.pro/es/guias-de-practica/entrevista-de-hirevue?ref=gh-guides
 
+## Karat interview: questions, process, how to prepare
+
+What Karat's own public pages say about its AI interview, each line with the page it comes from and the day we read it. Aethel is a separate company and is not affiliated with Karat.
+
+| | What Karat's own pages say | Source (day read) |
+|---|---|---|
+| Interviewer | a professional Interview Engineer (IVE) | [karat.com](https://karat.com/candidate-experience/) (2026-11-19) |
+| Length | the interview is an hour long | [karat.com](https://karat.com/candidate-experience/) (2026-11-19) |
+| Questions | depend on the company and the role | [karat.com](https://karat.com/what-do-karat-technical-interviews-measure/) (2026-11-19) |
+| What counts most | how successfully your code solves the problem | [karat.com](https://karat.com/candidate-experience/) (2026-11-19) |
+| Recording | is recorded either way | [karat.com](https://karat.com/customer-faq) (2026-11-19) |
+| ChatGPT | interviews that allow the use of ChatGPT and interviews that do not | [karat.com](https://karat.com/karat-interview/) (2026-11-19) |
+
+**How to prepare for a Karat interview**
+
+- **Read the email Karat sends you.** Karat says it sends a personalized email when you schedule, with what to expect and how to prepare. Read it first: the questions depend on the company and the role, so that email is the best guide to your own interview.
+- **Choose an hour when you think clearly.** Karat lets you pick the time, evenings and weekends included. Take an hour when you are rested, not the first free slot, and check your camera, microphone and connection before it starts.
+- **Talk while you code.** A person is with you and can guide you. Say what you plan to do before you type, say when you are unsure, and ask if the problem is not clear. The interviewer can only use what you say and what you write.
+- **Get a working version first.** Karat says the most important thing it evaluates is how successfully your code solves the problem. Get a simple version running, try it on a small case, then improve it if there is time left.
+
+Full guide (every fact with its source, how to prepare step by step, what is not known): https://aethel.pro/practice-guides/karat-interview?ref=gh-guides
+En español: https://aethel.pro/es/guias-de-practica/entrevista-de-karat?ref=gh-guides
+
 ## Mercor AI interview: questions, process, how to prepare
 
 What Mercor's own public pages say about its AI interview, each line with the page it comes from and the day we read it. Aethel is a separate company and is not affiliated with Mercor.
@@ -245,6 +322,121 @@ What Ribbon's own public pages say about its AI interview, each line with the pa
 
 Full guide (every fact with its source, how to prepare step by step, what is not known): https://aethel.pro/practice-guides/ribbon-ai-interview?ref=gh-guides
 En español: https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-ribbon?ref=gh-guides
+
+## Sapia AI interview: questions, process, how to prepare
+
+What Sapia.ai's own public pages say about its AI interview, each line with the page it comes from and the day we read it. Aethel is a separate company and is not affiliated with Sapia.ai.
+
+| | What Sapia.ai's own pages say | Source (day read) |
+|---|---|---|
+| Format | a text-based interview and assessment | [sapia.ai](https://sapia.ai/candidate-explainer/) (2026-11-19) |
+| Camera | no video recording and no camera | [sapia.ai](https://sapia.ai/candidate-explainer/) (2026-11-19) |
+| Questions | you are asked 5 to 7 text questions | [sapia.ai](https://sapia.ai/candidate-explainer/) (2026-11-19) |
+| Length | to allow 20 to 30 minutes, that the Chat Interview is not timed | [sapia.ai](https://sapia.ai/candidate-explainer/) (2026-11-19) |
+| Answers | answers of 50 words or more | [sapia.ai](https://sapia.ai/candidate-explainer/) (2026-11-19) |
+| Leave and come back | your answers are saved so you pick up where you left off | [sapia.ai](https://sapia.ai/candidate-explainer/) (2026-11-19) |
+
+**How to prepare for a Sapia AI chat interview**
+
+- **Keep the email with your link.** Sapia.ai sends you a link when you start, and your answers are saved behind it. Find that email before you begin (check spam too), so a closed tab does not cost you your answers.
+- **Pick three or four real examples first.** The questions mainly ask for an example of how you acted at work or elsewhere. Before you start, list three or four real moments: a bug you tracked down, a deadline, a disagreement, something you learned fast.
+- **Write each answer as one short story.** Aim for 50 to 100 words: the situation in one line, what you did, why, and what changed. A developer example can be plain: no code, just the problem and your part.
+- **Use the time you have.** Sapia.ai says the Chat Interview is not timed. Read each question twice, write the answer, then read it again for typos before you press the arrow.
+
+Full guide (every fact with its source, how to prepare step by step, what is not known): https://aethel.pro/practice-guides/sapia-ai-interview?ref=gh-guides
+En español: https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-sapia?ref=gh-guides
+
+## Spark Hire one-way interview: questions, process, how to prepare
+
+What Spark Hire's own public pages say about its AI interview, each line with the page it comes from and the day we read it. Aethel is a separate company and is not affiliated with Spark Hire.
+
+| | What Spark Hire's own pages say | Source (day read) |
+|---|---|---|
+| Format | answer text or video questions on their own time | [sparkhire.com](https://www.sparkhire.com/candidates/intro-to-one-way-video-interviews/) (2026-11-19) |
+| Questions | you see one question at a time | [sparkhire.com](https://www.sparkhire.com/video-interviews/pre-recorded-preparation/) (2026-11-19) |
+| Answer length | answers usually have a cap of 1 to 3 minutes | [sparkhire.com](https://www.sparkhire.com/video-interviews/pre-recorded-preparation/) (2026-11-19) |
+| Retakes | depends on the take limit the recruiter set | [sparkhire.com](https://www.sparkhire.com/video-interviews/pre-recorded-preparation/) (2026-11-19) |
+| Who watches | the company looking to hire you watches your videos | [sparkhire.com](https://www.sparkhire.com/candidates/video-interviewing-faq-for-candidates/) (2026-11-19) |
+| Decisions | final decisions are always human-led | [sparkhire.com](https://www.sparkhire.com/ai/) (2026-11-19) |
+
+**How to prepare for a Spark Hire one-way interview**
+
+- **Find the deadline and your time zone.** Spark Hire's guide asks candidates to plan for the deadline and time zone differences. Write down the deadline in your own time zone and plan to record a day early, so a camera problem still leaves time to write to the employer.
+- **Use the practice recording first.** Spark Hire offers a camera and microphone test and practice recordings before the real questions. Record one practice answer and watch it back: check that your face is lit from the front and your voice is clear.
+- **Read each question's settings before you start.** Each question can have its own think time, answer length and number of takes. Read the instructions for each question before you record, so a single take does not surprise you.
+- **Fit one example into two minutes.** Spark Hire says answers usually have a cap of 1 to 3 minutes. Practice one example from your work in about a minute and a half: the problem, what you did, the tools you used and what changed.
+
+Full guide (every fact with its source, how to prepare step by step, what is not known): https://aethel.pro/practice-guides/spark-hire-one-way-interview?ref=gh-guides
+En español: https://aethel.pro/es/guias-de-practica/entrevista-en-video-de-spark-hire?ref=gh-guides
+
+## Talview interview: questions, process, how to prepare
+
+What Talview's own public pages say about its AI interview, each line with the page it comes from and the day we read it. Aethel is a separate company and is not affiliated with Talview.
+
+| | What Talview's own pages say | Source (day read) |
+|---|---|---|
+| Formats | an automated video interview, a live interview, and online tests | [talview.freshdesk.com](https://talview.freshdesk.com/support/solutions/folders/11000021196) (2026-11-19) |
+| AI interviewer | Ivy is always openly an AI | [talview.com](https://www.talview.com/en/ivy-ai-interviewer) (2026-11-19) |
+| Follow-ups | asks follow-up questions in real time | [talview.com](https://www.talview.com/en/ivy-ai-interviewer) (2026-11-19) |
+| Before you start | a hardware test, a camera test | [talview.freshdesk.com](https://talview.freshdesk.com/support/solutions/articles/11000121652-steps-to-complete-the-automated-video-interview-via-web-browser) (2026-11-19) |
+| Room check | one minute to record your surroundings | [talview.freshdesk.com](https://talview.freshdesk.com/support/solutions/articles/11000129120-guide-to-complete-the-environment-test) (2026-11-19) |
+| Who decides | the hiring team reviews it and makes the call | [talview.com](https://www.talview.com/en/ivy-ai-interviewer) (2026-11-19) |
+
+**How to prepare for a Talview interview**
+
+- **Read the invitation for the format and the deadline.** Talview runs a recorded video interview, a live interview room and Ivy, its AI interviewer. Your invitation names the position, the deadline with its time zone and your verification code. Note all three before the day, so the format is not a surprise.
+- **Check your computer against Talview's list.** Talview asks for a recent Chrome, Edge or Firefox, 5 Mbps up and down, and a recent Windows or macOS on your own laptop or desktop. A work laptop with locked settings can block the camera, so test on the machine you will use.
+- **Set up the room before the room check.** If your interview has an environment test, you film your desk, the ceiling and the floor in one minute. Clear the desk, turn on the lights, and keep notes and a second screen out of the room before you start.
+- **Plan for follow-ups, not a script.** Talview says Ivy asks follow-up questions based on what you actually said. Pick two or three real pieces of your work and know the details behind them: why you chose a tool, what went wrong, what you would change.
+
+Full guide (every fact with its source, how to prepare step by step, what is not known): https://aethel.pro/practice-guides/talview-interview?ref=gh-guides
+En español: https://aethel.pro/es/guias-de-practica/entrevista-de-talview?ref=gh-guides
+
+## VidCruiter interview: questions, process, how to prepare
+
+What VidCruiter's own public pages say about its AI interview, each line with the page it comes from and the day we read it. Aethel is a separate company and is not affiliated with VidCruiter.
+
+| | What VidCruiter's own pages say | Source (day read) |
+|---|---|---|
+| Format | record your answers when it suits you | [support.hiringplatform.com](https://support.hiringplatform.com/en/support/solutions/articles/150000180608-what-is-a-pre-recorded-video-interview-) (2026-11-19) |
+| Practice question | will not be used to evaluate your candidacy | [support.hiringplatform.com](https://support.hiringplatform.com/en/support/solutions/articles/150000180729-how-do-i-prepare-for-a-pre-recorded-video-interview-) (2026-11-19) |
+| Questions | the same questions as every other candidate | [support.hiringplatform.com](https://support.hiringplatform.com/en/support/solutions/articles/150000180608-what-is-a-pre-recorded-video-interview-) (2026-11-19) |
+| Who watches | the hiring team watches the videos of all candidates | [support.hiringplatform.com](https://support.hiringplatform.com/en/support/solutions/articles/150000180608-what-is-a-pre-recorded-video-interview-) (2026-11-19) |
+| If you get cut off | brings you back to the latest unanswered question | [support.hiringplatform.com](https://support.hiringplatform.com/en/support/solutions/articles/150000180729-how-do-i-prepare-for-a-pre-recorded-video-interview-) (2026-11-19) |
+| Another attempt | the hiring organization decides whether a redo is allowed | [support.hiringplatform.com](https://support.hiringplatform.com/en/support/solutions/articles/150000184211-can-i-have-an-additional-attempt-to-answer-questions-redos-and-extra-attempts-) (2026-11-19) |
+
+**How to prepare for a VidCruiter interview**
+
+- **Run the tech check the day before.** VidCruiter links a Tech Check tool for your camera and microphone. Run it on the computer you will use, in the room you will use, so a browser permission or a weak connection shows up a day early and not on the first question.
+- **Use the practice question as a rehearsal.** VidCruiter says the practice question is not used to evaluate you. Treat it like the real thing: check that your face is lit, that you look at the camera, and how loud you sound on the playback.
+- **Find out the timing before you start.** The employer sets the time to think, the time to record and the number of attempts. Read every instruction screen before you press record, and plan answers that fit the time you see there.
+- **Pick your examples from the job post.** Every candidate gets the same questions, so your examples are what sets you apart. Read the job post, list the skills it names, and pick one real piece of your work for each of them.
+
+Full guide (every fact with its source, how to prepare step by step, what is not known): https://aethel.pro/practice-guides/vidcruiter-interview?ref=gh-guides
+En español: https://aethel.pro/es/guias-de-practica/entrevista-de-vidcruiter?ref=gh-guides
+
+## Willo interview: questions, process, how to prepare
+
+What Willo's own public pages say about its AI interview, each line with the page it comes from and the day we read it. Aethel is a separate company and is not affiliated with Willo.
+
+| | What Willo's own pages say | Source (day read) |
+|---|---|---|
+| Format | candidates record at a convenient time | [willo.video](https://www.willo.video/faqs) (2026-11-19) |
+| Answer time | between 1 and 5 minutes | [support.willo.video](https://support.willo.video/article/64-5-easy-steps-to-your-interview) (2026-11-19) |
+| Time to finish | within 12 hours | [support.willo.video](https://support.willo.video/article/64-5-easy-steps-to-your-interview) (2026-11-19) |
+| Practice | practice with a sample question | [support.willo.video](https://support.willo.video/article/64-5-easy-steps-to-your-interview) (2026-11-19) |
+| Retakes | not available for all interviews or questions | [support.willo.video](https://support.willo.video/article/64-5-easy-steps-to-your-interview) (2026-11-19) |
+| Who decides | recruiters and hiring managers stay in control | [willo.video](https://www.willo.video/faqs) (2026-11-19) |
+
+**How to prepare for a Willo interview**
+
+- **Do not start until you have time to finish.** Willo gives you 12 hours to submit once you answer the first question. Open the link early to read the instructions and try the sample question, but start the real questions only when you can finish in one sitting.
+- **Close everything else first.** Willo says other tabs and applications must be closed or you cannot complete the interview. Close the code editor, chat apps and video calls, and turn off notifications, before you press record.
+- **Use the sample question as many times as you need.** Willo says practice mode saves nothing. Record the sample question until your face is lit, your head and shoulders are centered, and you can hear yourself clearly on the playback.
+- **Fit one example into the answer time.** Each answer has a limit between 1 and 5 minutes, shown below the record button. Practice telling one piece of your work in about a minute and a half: the problem, your part, why you chose your approach, and what changed.
+
+Full guide (every fact with its source, how to prepare step by step, what is not known): https://aethel.pro/practice-guides/willo-interview?ref=gh-guides
+En español: https://aethel.pro/es/guias-de-practica/entrevista-de-willo?ref=gh-guides
 
 ## Practise for free
 
