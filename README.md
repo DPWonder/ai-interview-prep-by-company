@@ -1,6 +1,6 @@
 # AI interviews by company: what to expect and how to prepare
 
-The interviews and assessments of Adaface, Alex, Alignerr, Andela, Braintrust, Coderbyte, CoderPad, CodeSignal, Criteria, Crossover, FloCareer, Glider AI, HackerEarth, HackerRank, Harver, HeyMilo, HireVue, iMocha, InCruiter, Karat, Kira Talent, Lemon.io, Mercor, micro1, Mindrift, Ribbon, Sapia.ai, SHL, Spark Hire, Talview, TestGorilla, Vervoe, VidCruiter, Wellfound, Willo and Zeko AI (AI interviewers, one-way video interviews, coding tests and vetting interviews): the format, how long it takes, what kinds of questions the company says it asks, what is recorded and who reviews it. Only what each company's own public pages say, each line with its source and the day it was read (newest reading: 2026-11-20).
+The interviews and assessments of Adaface, Alex, Alignerr, Andela, Braintrust, Coderbyte, CoderPad, CodeSignal, Criteria, Crossover, FloCareer, Glider AI, HackerEarth, HackerRank, Harver, HeyMilo, HirePro, HireVue, Hyring, iMocha, InCruiter, Intervue.io, Karat, Kira Talent, Lemon.io, Mercor, micro1, Mindrift, Ribbon, Sapia.ai, SHL, Spark Hire, Talview, TestGorilla, Testlify, Vervoe, VidCruiter, Wellfound, Willo, X-Team, Xobin and Zeko AI (AI interviewers, one-way video interviews, coding tests and vetting interviews): the format, how long it takes, what kinds of questions the company says it asks, what is recorded and who reviews it. Only what each company's own public pages say, each line with its source and the day it was read (newest reading: 2026-11-21).
 
 Kept by [Aethel](https://aethel.pro/?ref=gh-guides), free AI interview practice for developers: [practice now, no account](https://aethel.pro/practice?ref=gh-guides). Aethel is a separate company and is not affiliated with any company listed here.
 
@@ -26,9 +26,12 @@ Kept by [Aethel](https://aethel.pro/?ref=gh-guides), free AI interview practice 
 | HackerRank | [HackerRank AI interview (Chakra): questions and process](https://aethel.pro/practice-guides/hackerrank-ai-interview?ref=gh-guides) | [Entrevista de HackerRank con Chakra: preguntas y proceso](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-hackerrank?ref=gh-guides) |
 | Harver | [Harver video interview: questions, process, how to prepare](https://aethel.pro/practice-guides/harver-video-interview?ref=gh-guides) | [Entrevista en video de Harver: preguntas, proceso y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-en-video-de-harver?ref=gh-guides) |
 | HeyMilo | [HeyMilo AI interview: questions, process, how to prepare](https://aethel.pro/practice-guides/heymilo-ai-interview?ref=gh-guides) | [Entrevista con IA de HeyMilo: preguntas, proceso y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-heymilo?ref=gh-guides) |
+| HirePro | [HirePro interview: AI avatar or live, how to prepare](https://aethel.pro/practice-guides/hirepro-interview?ref=gh-guides) | [Entrevista de HirePro con avatar de IA o en vivo: cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-de-hirepro?ref=gh-guides) |
 | HireVue | [HireVue AI and video interview questions: how to prepare](https://aethel.pro/practice-guides/hirevue-ai-interview?ref=gh-guides) | [Entrevista HireVue con IA y en video: preguntas y pasos](https://aethel.pro/es/guias-de-practica/entrevista-de-hirevue?ref=gh-guides) |
+| Hyring | [Hyring AI interview: questions, process, how to prepare](https://aethel.pro/practice-guides/hyring-ai-interview?ref=gh-guides) | [Entrevista con IA de Hyring: preguntas, proceso y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-hyring?ref=gh-guides) |
 | iMocha | [iMocha AI interview: questions, process, how to prepare](https://aethel.pro/practice-guides/imocha-ai-interview?ref=gh-guides) | [Entrevista con IA de iMocha: preguntas, proceso y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-imocha?ref=gh-guides) |
 | InCruiter | [InCruiter interview: AI or expert interviewer, how to prepare](https://aethel.pro/practice-guides/incruiter-interview?ref=gh-guides) | [Entrevista de InCruiter: con IA o con un experto, cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-de-incruiter?ref=gh-guides) |
+| Intervue.io | [Intervue.io interview: process, questions, how to prepare](https://aethel.pro/practice-guides/intervue-interview?ref=gh-guides) | [Entrevista de Intervue.io: proceso, preguntas y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-de-intervue?ref=gh-guides) |
 | Karat | [Karat interview: questions, process, how to prepare](https://aethel.pro/practice-guides/karat-interview?ref=gh-guides) | [Entrevista de Karat: preguntas, proceso y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-de-karat?ref=gh-guides) |
 | Kira Talent | [Kira Talent video interview: questions and how to prepare](https://aethel.pro/practice-guides/kira-talent-video-interview?ref=gh-guides) | [Entrevista en video de Kira Talent: preguntas, proceso y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-en-video-de-kira-talent?ref=gh-guides) |
 | Lemon.io | [Lemon.io interview: process, questions, how to prepare](https://aethel.pro/practice-guides/lemon-io-interview?ref=gh-guides) | [Entrevista de Lemon.io: preguntas, proceso y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-de-lemon-io?ref=gh-guides) |
@@ -41,10 +44,13 @@ Kept by [Aethel](https://aethel.pro/?ref=gh-guides), free AI interview practice 
 | Spark Hire | [Spark Hire one-way interview: questions, process, how to prepare](https://aethel.pro/practice-guides/spark-hire-one-way-interview?ref=gh-guides) | [Entrevista en video de Spark Hire: preguntas, proceso y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-en-video-de-spark-hire?ref=gh-guides) |
 | Talview | [Talview interview: questions, process, how to prepare](https://aethel.pro/practice-guides/talview-interview?ref=gh-guides) | [Entrevista de Talview: preguntas, proceso y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-de-talview?ref=gh-guides) |
 | TestGorilla | [TestGorilla AI interview: questions, process, how to prepare](https://aethel.pro/practice-guides/testgorilla-ai-interview?ref=gh-guides) | [Entrevista con IA de TestGorilla: preguntas y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-testgorilla?ref=gh-guides) |
+| Testlify | [Testlify assessment and AI interview: how to prepare](https://aethel.pro/practice-guides/testlify-interview?ref=gh-guides) | [Evaluación y entrevista con IA de Testlify: cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-de-testlify?ref=gh-guides) |
 | Vervoe | [Vervoe assessment and interview: questions, how to prepare](https://aethel.pro/practice-guides/vervoe-assessment?ref=gh-guides) | [Evaluación y entrevista de Vervoe: preguntas y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-y-evaluacion-de-vervoe?ref=gh-guides) |
 | VidCruiter | [VidCruiter interview: questions, process, how to prepare](https://aethel.pro/practice-guides/vidcruiter-interview?ref=gh-guides) | [Entrevista de VidCruiter: preguntas, proceso y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-de-vidcruiter?ref=gh-guides) |
 | Wellfound | [Wellfound AI interview: questions, process, how to prepare](https://aethel.pro/practice-guides/wellfound-ai-interview?ref=gh-guides) | [Entrevista con IA de Wellfound: preguntas y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-wellfound?ref=gh-guides) |
 | Willo | [Willo interview: questions, process, how to prepare](https://aethel.pro/practice-guides/willo-interview?ref=gh-guides) | [Entrevista de Willo: preguntas, proceso y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-de-willo?ref=gh-guides) |
+| X-Team | [X-Team interview: process, questions, how to prepare](https://aethel.pro/practice-guides/x-team-interview?ref=gh-guides) | [Entrevista de X-Team: proceso, preguntas y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-de-x-team?ref=gh-guides) |
+| Xobin | [Xobin test and AI interview: how to prepare](https://aethel.pro/practice-guides/xobin-interview?ref=gh-guides) | [Prueba y entrevista con IA de Xobin: cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-de-xobin?ref=gh-guides) |
 | Zeko AI | [Zeko AI interview: questions, process, how to prepare](https://aethel.pro/practice-guides/zeko-ai-interview?ref=gh-guides) | [Entrevista con IA de Zeko AI: preguntas, proceso y cómo prepararse](https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-zeko-ai?ref=gh-guides) |
 
 ## Adaface interview: the Ada chat assessment and how to prepare
@@ -413,6 +419,29 @@ What HeyMilo's own public pages say about its interview or assessment, each line
 Full guide (every fact with its source, how to prepare step by step, what is not known): https://aethel.pro/practice-guides/heymilo-ai-interview?ref=gh-guides
 En español: https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-heymilo?ref=gh-guides
 
+## HirePro interview: AI avatar or live, how to prepare
+
+What HirePro's own public pages say about its interview or assessment, each line with the page it comes from and the day we read it. Aethel is a separate company and is not affiliated with HirePro.
+
+| | What HirePro's own pages say | Source (day read) |
+|---|---|---|
+| AI format | an AI avatar leads the conversation | [hirepro.in](https://hirepro.in/ai-recruiter) (2026-11-21) |
+| Other formats | live, coding or asynchronous | [hirepro.in](https://hirepro.in/products/hirepro-video-interviews/) (2026-11-21) |
+| Computer | a laptop or desktop | [technicalhelp.hirepro.in](https://technicalhelp.hirepro.in/) (2026-11-21) |
+| Camera | a webcam and microphone, which are mandatory | [technicalhelp.hirepro.in](https://technicalhelp.hirepro.in/) (2026-11-21) |
+| Scored on | your communication on the CEFR scale | [hirepro.in](https://hirepro.in/ai-recruiter) (2026-11-21) |
+| Results | the audio and video recording | [hirepro.in](https://hirepro.in/ai-recruiter) (2026-11-21) |
+
+**How to prepare for a HirePro interview**
+
+- **Read which HirePro format your invitation names.** HirePro runs an AI avatar interview, live video interviews, live coding sessions and recorded answers. Your invitation should say which. An AI or recorded interview you take when it suits you; a live one has a set time with an interviewer.
+- **Run HirePro's compatibility check a day early.** HirePro asks for a laptop or desktop, the latest Chrome or Edge, 8 GB of RAM and a steady 2 Mbps. Run its compatibility check the day before on the same computer, network and room you will use, so there is time to fix what fails.
+- **Have your ID next to you.** HirePro checks your face and name against an ID, and the AI interview checks again partway through. Keep the ID you registered with on the desk, sit in good light, and stay in front of the camera the whole time.
+- **Use the captions and the pauses.** The AI avatar shows live captions and waits through a short silence before it nudges you. If a question is unclear, read the caption again and take a breath before you answer, rather than filling the silence with words.
+
+Full guide (every fact with its source, how to prepare step by step, what is not known): https://aethel.pro/practice-guides/hirepro-interview?ref=gh-guides
+En español: https://aethel.pro/es/guias-de-practica/entrevista-de-hirepro?ref=gh-guides
+
 ## HireVue AI and video interview questions: how to prepare
 
 What HireVue's own public pages say about its interview or assessment, each line with the page it comes from and the day we read it. Aethel is a separate company and is not affiliated with HireVue.
@@ -434,6 +463,29 @@ What HireVue's own public pages say about its interview or assessment, each line
 
 Full guide (every fact with its source, how to prepare step by step, what is not known): https://aethel.pro/practice-guides/hirevue-ai-interview?ref=gh-guides
 En español: https://aethel.pro/es/guias-de-practica/entrevista-de-hirevue?ref=gh-guides
+
+## Hyring AI interview: questions, process, how to prepare
+
+What Hyring's own public pages say about its interview or assessment, each line with the page it comes from and the day we read it. Aethel is a separate company and is not affiliated with Hyring.
+
+| | What Hyring's own pages say | Source (day read) |
+|---|---|---|
+| Interviewer | the AI asks the questions | [hyring.com](https://hyring.com/help-desk/ai-interviewer/what-is-the-difference-between-a-one-way-and-a-two-way-interview) (2026-11-21) |
+| How long | most last around 10 minutes, some up to 30 minutes | [hyring.com](https://hyring.com/help-desk/ai-interviewer/how-long-do-i-have-to-complete-the-interview-with-the-ai-interviewer) (2026-11-21) |
+| Recording | video interviews are recorded | [hyring.com](https://hyring.com/help-desk/ai-interviewer/will-the-ai-interviewer-record-the-video-interview) (2026-11-21) |
+| Retakes | only if the employer has enabled it | [hyring.com](https://hyring.com/help-desk/ai-interviewer/can-i-retake-the-interview-or-at-least-a-question-in-the-ai-interviewer) (2026-11-21) |
+| Device | cannot be taken on mobile devices or tablets | [hyring.com](https://hyring.com/help-desk/ai-interviewer/can-i-take-the-ai-interview-using-my-mobile-device-or-tablet) (2026-11-21) |
+| Coding timer | one overall timer, not one per question | [hyring.com](https://hyring.com/help-desk/ai-coding-interview/is-there-a-time-limit-for-each-question-or-just-for-the-full-coding-interview) (2026-11-21) |
+
+**How to prepare for a Hyring AI interview**
+
+- **Find out which interviewer you have.** Read the invitation: the AI Interviewer is a spoken video interview, and the AI Coding Interviewer gives you coding tasks in its own editor. If the invitation does not say, open the job page the link leads to before you start.
+- **Set up a computer in Chrome.** Neither one works on a phone or tablet. Use a laptop or desktop with Chrome, a camera and a microphone, close streaming and backup apps, and run the microphone and video test before the interview starts.
+- **Block out the whole time at once.** The AI Interviewer cannot be paused and most interviews last around 10 minutes. Pick a quiet room, keep your face in view, and do not open other tabs: Hyring flags tab changes and looking away.
+- **Answer with content, out loud.** Hyring says the AI focuses on what you say, not how you say it, and rates depth and relevance. For each answer, name one real case, your part in it, why you chose what you did and the result, at a calm pace.
+
+Full guide (every fact with its source, how to prepare step by step, what is not known): https://aethel.pro/practice-guides/hyring-ai-interview?ref=gh-guides
+En español: https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-hyring?ref=gh-guides
 
 ## iMocha AI interview: questions, process, how to prepare
 
@@ -479,6 +531,28 @@ What InCruiter's own public pages say about its interview or assessment, each li
 
 Full guide (every fact with its source, how to prepare step by step, what is not known): https://aethel.pro/practice-guides/incruiter-interview?ref=gh-guides
 En español: https://aethel.pro/es/guias-de-practica/entrevista-de-incruiter?ref=gh-guides
+
+## Intervue.io interview: process, questions, how to prepare
+
+What Intervue.io's own public pages say about its interview or assessment, each line with the page it comes from and the day we read it. Aethel is a separate company and is not affiliated with Intervue.io.
+
+| | What Intervue.io's own pages say | Source (day read) |
+|---|---|---|
+| Interviewer | an external interviewer | [intervue.io](https://www.intervue.io/blog/an-insiders-guide-to-on-demand-interviews-everything-you-need-to-know) (2026-11-21) |
+| Format | usually takes place in a video call | [intervue.io](https://www.intervue.io/blog/an-insiders-guide-to-on-demand-interviews-everything-you-need-to-know) (2026-11-21) |
+| Recording | the interview session is recorded | [intervue.io](https://www.intervue.io/blog/an-insiders-guide-to-on-demand-interviews-everything-you-need-to-know) (2026-11-21) |
+| Content | coding challenges, role-specific questions | [intervue.io](https://www.intervue.io/blog/an-insiders-guide-to-on-demand-interviews-everything-you-need-to-know) (2026-11-21) |
+| Report | the interview replay, a code replay and the interviewer's feedback | [intervue.io](https://www.intervue.io/blog/an-insiders-guide-to-on-demand-interviews-everything-you-need-to-know) (2026-11-21) |
+
+**How to prepare for an Intervue.io interview**
+
+- **Ask what the round covers.** An Intervue.io interview may mix coding, role questions and a short evaluation. When you get the link, ask the employer which skills the round is about and whether it includes live coding, so you know what to warm up on.
+- **Pick a slot when you are sharp.** You can often choose the time from the slots offered. Take one when you are rested, in a quiet room with a camera, a microphone and a stable connection, and join a few minutes early to check them.
+- **Narrate your approach as you code.** The interviewer is an engineer watching you work, and the session is recorded with a code replay. Say what you are about to try and why before you type, and say when you change your mind.
+- **Tell one project in two minutes.** Role questions usually start with your own work. Choose a project and say it in about two minutes: the problem, your part, the choice you made and the result, with one number if you have it.
+
+Full guide (every fact with its source, how to prepare step by step, what is not known): https://aethel.pro/practice-guides/intervue-interview?ref=gh-guides
+En español: https://aethel.pro/es/guias-de-practica/entrevista-de-intervue?ref=gh-guides
 
 ## Karat interview: questions, process, how to prepare
 
@@ -754,6 +828,29 @@ What TestGorilla's own public pages say about its interview or assessment, each 
 Full guide (every fact with its source, how to prepare step by step, what is not known): https://aethel.pro/practice-guides/testgorilla-ai-interview?ref=gh-guides
 En español: https://aethel.pro/es/guias-de-practica/entrevista-con-ia-de-testgorilla?ref=gh-guides
 
+## Testlify assessment and AI interview: how to prepare
+
+What Testlify's own public pages say about its interview or assessment, each line with the page it comes from and the day we read it. Aethel is a separate company and is not affiliated with Testlify.
+
+| | What Testlify's own pages say | Source (day read) |
+|---|---|---|
+| Question types | coding, typing, video, audio and file upload | [help.testlify.com](https://help.testlify.com/article/407-a-comprehensive-candidate-guide) (2026-11-21) |
+| AI interview | the AI interviewer listens all the time | [help.testlify.com](https://help.testlify.com/article/710-ai-voice-video-ai-question-not-responding-working) (2026-11-21) |
+| Camera | a snapshot of you every 30 seconds | [help.testlify.com](https://help.testlify.com/article/397-faqs-and-troubleshooting-for-candidates) (2026-11-21) |
+| Account | you need no account | [help.testlify.com](https://help.testlify.com/article/407-a-comprehensive-candidate-guide) (2026-11-21) |
+| Tries | each invitation link works only once | [help.testlify.com](https://help.testlify.com/article/407-a-comprehensive-candidate-guide) (2026-11-21) |
+| Results | your results go to the employer, not to you | [help.testlify.com](https://help.testlify.com/article/407-a-comprehensive-candidate-guide) (2026-11-21) |
+
+**How to prepare for a Testlify assessment or AI interview**
+
+- **Read the invitation and the welcome screen.** Testlify needs no account: the link in your invitation email opens the assessment, and a code sent to your email confirms it is you. The welcome screen shows how many tests there are, the question types and the estimated time. Note any deadline in the email.
+- **Use Chrome or Edge on a laptop.** Testlify recommends a desktop or laptop, a browser at version 120 or higher and, for the AI interview, the latest Chrome or Edge on a stable connection. A phone works but is not ideal for coding. Check your camera and microphone before you start.
+- **Find a quiet room for the AI interview.** Testlify's AI interviewer listens all the time and waits while it hears any sound. Close windows, turn off the TV and fans you can, and quit apps that use the microphone, so it can tell when you have finished.
+- **Play back each recorded answer.** In the AI interview you can watch your answer before you submit it and record it again. Use it once to check your sound and picture, and wait for each upload to finish before you move on.
+
+Full guide (every fact with its source, how to prepare step by step, what is not known): https://aethel.pro/practice-guides/testlify-interview?ref=gh-guides
+En español: https://aethel.pro/es/guias-de-practica/entrevista-de-testlify?ref=gh-guides
+
 ## Vervoe assessment and interview: questions, how to prepare
 
 What Vervoe's own public pages say about its interview or assessment, each line with the page it comes from and the day we read it. Aethel is a separate company and is not affiliated with Vervoe.
@@ -844,6 +941,52 @@ What Willo's own public pages say about its interview or assessment, each line w
 
 Full guide (every fact with its source, how to prepare step by step, what is not known): https://aethel.pro/practice-guides/willo-interview?ref=gh-guides
 En español: https://aethel.pro/es/guias-de-practica/entrevista-de-willo?ref=gh-guides
+
+## X-Team interview: process, questions, how to prepare
+
+What X-Team's own public pages say about its interview or assessment, each line with the page it comes from and the day we read it. Aethel is a separate company and is not affiliated with X-Team.
+
+| | What X-Team's own pages say | Source (day read) |
+|---|---|---|
+| Interviewers | your first conversation is with its recruitment team | [x-team.com](https://x-team.com/how-to-get-hired-at-x-team) (2026-11-21) |
+| Steps | apply, talk with the recruitment team, complete a skills assessment, meet the client and sign your contract | [x-team.com](https://x-team.com/how-to-get-hired-at-x-team) (2026-11-21) |
+| First talk | is not technical: it looks at cultural fit and English fluency | [x-team.com](https://x-team.com/how-to-get-hired-at-x-team) (2026-11-21) |
+| English | American business English, spoken and written | [x-team.com](https://x-team.com/how-to-get-hired-at-x-team) (2026-11-21) |
+| Code | clean, readable and maintainable code | [x-team.com](https://x-team.com/how-to-get-hired-at-x-team) (2026-11-21) |
+| How long | timelines vary by role | [x-team.com](https://x-team.com/how-to-get-hired-at-x-team) (2026-11-21) |
+
+**How to prepare for the X-Team interviews**
+
+- **Read the "Most Important" part of the listing first.** Each X-Team listing marks the skills that are non-negotiable. Before you apply, check that your CV shows each of them plainly, with a project and a year, and save the "Nice to Have" skills for later in the talk.
+- **Rewrite your CV so it reads in a minute.** X-Team says to treat your CV like a README someone understands in under 60 seconds. Put the newest work on top, and for each role write one line on what changed because of you, not only what you worked on.
+- **Practice the first talk in English, out loud.** The first conversation is not technical: it looks at culture fit and your English. Pick two projects and tell each one out loud in English in about two minutes: the problem, what you did, and what you would do again.
+- **Have one remote work story ready.** X-Team is fully remote and asks for ownership and adaptability. Prepare one example of work you moved forward without being told, with people in other time zones, and say what you did when something was unclear.
+
+Full guide (every fact with its source, how to prepare step by step, what is not known): https://aethel.pro/practice-guides/x-team-interview?ref=gh-guides
+En español: https://aethel.pro/es/guias-de-practica/entrevista-de-x-team?ref=gh-guides
+
+## Xobin test and AI interview: how to prepare
+
+What Xobin's own public pages say about its interview or assessment, each line with the page it comes from and the day we read it. Aethel is a separate company and is not affiliated with Xobin.
+
+| | What Xobin's own pages say | Source (day read) |
+|---|---|---|
+| AI interview | listens to their answers and asks follow-up questions | [docs.xobin.com](https://docs.xobin.com/en-us/article/automating-interviews-what-is-an-ai-interview-in-xobin-16awmr1/) (2026-11-21) |
+| Camera | you cannot start the test without giving it access to your webcam | [xobin.com](https://xobin.com/candidate-faq/) (2026-11-21) |
+| Computer | Google Chrome is strongly recommended | [docs.xobin.com](https://docs.xobin.com/en-us/article/what-browser-and-device-should-candidates-use-18q5ede/) (2026-11-21) |
+| Time | the recruiter decides how long a test lasts | [xobin.com](https://xobin.com/candidate-faq/) (2026-11-21) |
+| Tries | a candidate can take a test only once | [xobin.com](https://xobin.com/candidate-faq/) (2026-11-21) |
+| Results | only recruiters can see the results | [xobin.com](https://xobin.com/candidate-faq/) (2026-11-21) |
+
+**How to prepare for a Xobin test or AI interview**
+
+- **Read which Xobin format your invitation names.** Xobin runs skill tests, which can hold coding questions, and a spoken AI interview. Your invitation or the recruiter should say which one, and what the test is about. If it says nothing, Xobin suggests asking the recruiter before you start.
+- **Set up Chrome on a laptop the day before.** Xobin recommends the latest Chrome in an Incognito window, plugins and extensions off, a screen of at least 1600 by 900 and, for proctored and coding tests, at least 50 Mbps. Try the same laptop, network and room the day before, so there is time to fix what fails.
+- **Check your camera, your light and the wall behind you.** A Xobin test does not start without webcam access, and posters or photos behind you may be flagged in AI-proctored tests. Sit with your face in good light in front of a plain wall, and close other apps that use the camera.
+- **Plan your time before you start.** The recruiter sets the length, the test is submitted when time runs out, and you can take it only once. Look at how many sections there are, keep an eye on the timer, and remember you can go back to an earlier question only until you submit a section.
+
+Full guide (every fact with its source, how to prepare step by step, what is not known): https://aethel.pro/practice-guides/xobin-interview?ref=gh-guides
+En español: https://aethel.pro/es/guias-de-practica/entrevista-de-xobin?ref=gh-guides
 
 ## Zeko AI interview: questions, process, how to prepare
 
